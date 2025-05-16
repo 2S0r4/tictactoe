@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import O from "./assets/o.svg";
-import X from "./assets/X.svg";
+import X from "./assets/x.svg";
 import Owin from "./assets/Owin.svg";
 import Xwin from "./assets/xwin.svg";
 
